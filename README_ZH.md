@@ -58,10 +58,10 @@
 
 
 ## 常见问题
-1.项目检测失败？
+### 1.项目检测失败？
 我们现在支持对Java(Maven/Gradle)、Go(govendor)、JavaScript（npm/yarn）、python（pip/pipenv）的扫描，若您的项目中没有对应的包管理工具，会导致您的项目扫描失败。
 
-2.扫描结果不准确？
+### 2.扫描结果不准确？
 若您进行扫描的机器没有包管理工具，我们将会模拟搭建对应的Java(Maven/Gradle)、Go(govendor)、JavaScript（npm/yarn）、python（pip/pipenv），这样可能会导致您的扫描结果出现误差！
 
 
