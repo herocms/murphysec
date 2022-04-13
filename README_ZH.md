@@ -57,7 +57,7 @@
 参考：[墨菲安全 CLI 与 Jenkins CI 的集成](https://www.murphysec.com/docs/integrations/jenkins/)
 
 
-##常见问题
+## 常见问题
 1.项目检测失败？
 我们现在支持对Java(Maven/Gradle)、Go(govendor)、JavaScript（npm/yarn）、python（pip/pipenv）的扫描，若您的项目中没有对应的包管理工具，会导致您的项目扫描失败。
 
