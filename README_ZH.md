@@ -74,12 +74,14 @@
 
 ```
 curl -sL "https://github.com/murphysecurity/murphysec/releases/latest/download/murphysec-linux-amd64" -o murphysec
+
 chmod +x murphysec
 ```
 #### 在 OSX 上安装
 
 ```
 curl -sL "https://github.com/murphysecurity/murphysec/releases/latest/download/murphysec-darwin-amd64" -o murphysec
+
 chmod +x murphysec
 ```
 
